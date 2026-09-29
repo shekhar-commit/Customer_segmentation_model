@@ -1,0 +1,8 @@
+{
+  "name": "Restaurant Customer Intelligence & Segmentation",
+  "description": "Production-grade ML-driven customer intelligence, RFM analytics, and automatic behavioral segmentation for restaurants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
